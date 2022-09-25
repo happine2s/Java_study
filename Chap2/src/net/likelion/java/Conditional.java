@@ -1,4 +1,4 @@
-package com.dinfree.java.part1;
+package net.likelion.java;
 
 import java.util.Scanner;
 
